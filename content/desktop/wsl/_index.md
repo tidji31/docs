@@ -81,7 +81,7 @@ Docker Desktop does not require any particular Linux distros to be installed. Th
 
     The Docker-WSL integration is enabled on the default WSL distribution, which is [Ubuntu](https://learn.microsoft.com/en-us/windows/wsl/install). To change your default WSL distro, run:
      ```console
-    $ wsl --set-default <distro name>
+    $ wsl.exe --set-default <distro name>
     ```
 
 3. Select **Apply & Restart**.
